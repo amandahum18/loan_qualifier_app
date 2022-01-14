@@ -1,0 +1,445 @@
+   50  cd ..
+   51  mv sample.txt test
+   52  ls
+   53  cd test
+   54  ls
+   55  mv sample.txt example.txt
+   56  ls
+   57  cd ..
+   58  cd ..
+   59  cd ..
+   60  cd ..
+   61  cd ..
+   62  list
+   63  cd/Users/amandahum/Documents/UC Berk Ext
+   64  cd/Users
+   65  cd /Users
+   66  cd /amandahum
+   67  cd /Users/amandahum/Documents
+   68  ls
+   69  cd /UC Berk Ext
+   70  cd /UCBerk Ext
+   71  ls
+   72  cd /UCBerk
+   73  cd UCBerk
+   74  cd Directory
+   75  git clone <Prework>
+   76  git clone <Prework>
+   77  git clone <git@github.com:amandahum18/Prework.git>
+   78  git clone git@github.com:amandahum18/Prework.git
+   79  cd Prework
+   80  git add .
+   81  git comit -m "some message"
+   82  git push origin main
+   83  git commit -m "some message"
+   84  git push origin main
+   85  cd ..
+   86  cd Prework
+   87  git checkout -b new-branch-name
+   88  git add -A
+   89  git commit -m "some message"
+   90  git push origin new-branch-name
+   91  git checkout main
+   92  git pull
+   93  cd ..
+   94  cd ..
+   95  cd Directory
+   96  cd ~
+   97  ls
+   98  cd Documents/UCBerk/Directory
+   99  cd path/to/directory
+  100  cd ~
+  101  cd Documents/UCBerk/Directory
+  102  conda activate dev
+  103  jupyter lab
+  104  conda deactivate
+  105  conda activate dev
+  106  jupyter lab
+  107  conda deactivated
+  108  conda deactivate
+  109  ls
+  110  cd Documents/UCBerk
+  111  ls
+  112  cd Directory
+  113  ls
+  114  ls -al -/.ssh
+  115  cd ..
+  116  cd ..
+  117  cd ..
+  118  cd ..
+  119  ls -al ~/.ssg
+  120  ls -al ~/.ssh
+  121  ls /.ssh
+  122  ls ~/.ssh
+  123  conda create -n dev python=3.7 anaconda
+  124  conda activate dev
+  125  conda deactivate
+  126  conda activate dev
+  127  echo ${SHELL}
+  128  conda init zsh
+  129  conda deactivate
+  130  conda --version
+  131  conda update conda
+  132  pwd
+  133  ls
+  134  cd Documents
+  135  pwd
+  136  ls
+  137  cd UCBerk
+  138  ls
+  139  cd Directory
+  140  cd
+  141  cd
+  142  pwd
+  143  cd Documents
+  144  cd UCBerk
+  145  ls
+  146  cd FinTech-Workspace
+  147  ls
+  148  cd Python_Project
+  149  ls
+  150  conda activate dev
+  151  python --verison
+  152  python --version
+  153  code .
+  154  python hello_python.py
+  155  code .
+  156  conda deactivate
+  157  conda activate dev
+  158  code .
+  159  conda deactivatte
+  160  conda deactivate
+  161  conda activate dev
+  162  ls
+  163  python M1L3.py
+  164  ls
+  165  cd ..
+  166  ls
+  167  cd 01_Hello_Variable_World
+  168  ls
+  169  cd Unsolved
+  170  ls
+  171  python hello_variable_world.py
+  172  python hello_variable_world.py
+  173  python hello_variable_world.py
+  174  python hello_variable_world.py
+  175  cd ..
+  176  cd ..
+  177  cd 02_Listing_Assets
+  178  ls
+  179  cd Unsolved
+  180  python listing_assets.py
+  181  conda deactivate
+  182  conda activate dev
+  183  cd Documents/UCBerk/
+  184  cd Documents/UCBerk
+  185  cd Documents
+  186  cd Document/UCBerk
+  187  ls
+  188  cd ..
+  189  cd ..
+  190  ls
+  191  cd 03_The_401k_Shuffle
+  192  ls
+  193  cd Unsolved
+  194  python the_401k_shuffle.py
+  195  conda deactivate
+  196  /usr/bin/python3 /Users/amandahum/Documents/UCBerk/FinTech-Workspace/Class_1_Activities/01_Ins_Variables/Solved/variables.py
+  197  /usr/bin/python3 /Users/amandahum/Documents/UCBerk/FinTech-Workspace/Class_1_Activities/01_Ins_Variables/Unsolved/variables.py
+  198  /usr/bin/python3 /Users/amandahum/Documents/UCBerk/FinTech-Workspace/Class_1_Activities/01_Ins_Variables/Unsolved/variables.py
+  199  clear
+  200  ls
+  201  cd Documents
+  202  ls
+  203  cd UCBerk
+  204  ls
+  205  cd FinTech-Workspace
+  206  ls
+  207  /usr/bin/python3 /Users/amandahum/Documents/UCBerk/FinTech-Workspace/03_Split_Second_Homebuying/Solved/split_second_homebuying.py
+  208  /usr/bin/python3 /Users/amandahum/Documents/UCBerk/FinTech-Workspace/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  209  /usr/bin/python3 /Users/amandahum/Documents/UCBerk/FinTech-Workspace/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  210  /usr/bin/python3 /Users/amandahum/Documents/UCBerk/FinTech-Workspace/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  211  /usr/bin/python3 /Users/amandahum/Documents/UCBerk/FinTech-Workspace/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py
+  212  /usr/bin/python3 /Users/amandahum/Documents/UCBerk/FinTech-Workspace/02_Returned_Goods/Unsolved/returned_goods.py
+  213  /usr/bin/python3 /Users/amandahum/Documents/UCBerk/FinTech-Workspace/02_Returned_Goods/Unsolved/returned_goods.py
+  214  /usr/bin/python3 /Users/amandahum/Documents/UCBerk/FinTech-Workspace/02_Returned_Goods/Unsolved/returned_goods.py
+  215  /usr/bin/python3 /Users/amandahum/Documents/UCBerk/FinTech-Workspace/02_Returned_Goods/Unsolved/returned_goods.py
+  216  /usr/bin/python3 /Users/amandahum/Documents/UCBerk/FinTech-Workspace/02_Returned_Goods/Unsolved/returned_goods.py
+  217  /usr/bin/python3 /Users/amandahum/Documents/UCBerk/FinTech-Workspace/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  218  /usr/bin/python3 /Users/amandahum/Documents/UCBerk/FinTech-Workspace/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  219  /usr/bin/python3 /Users/amandahum/Documents/UCBerk/FinTech-Workspace/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  220  /usr/bin/python3 /Users/amandahum/Documents/UCBerk/FinTech-Workspace/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  221  /usr/bin/python3 /Users/amandahum/Documents/UCBerk/FinTech-Workspace/Class_2_Activities/01_Stu_Variables/Unsolved/variables.py
+  222  /usr/bin/python3 /Users/amandahum/Documents/UCBerk/FinTech-Workspace/Class_2_Activities/01_Stu_Variables/Unsolved/variables.py
+  223  /usr/bin/python3 /Users/amandahum/Documents/UCBerk/FinTech-Workspace/Class_2_Activities/01_Stu_Variables/Unsolved/variables.py
+  224  /usr/bin/python3 /Users/amandahum/Documents/UCBerk/FinTech-Workspace/Class_2_Activities/01_Stu_Variables/Unsolved/variables.py
+  225  /usr/bin/python3 /Users/amandahum/Documents/UCBerk/FinTech-Workspace/Class_2_Activities/01_Stu_Variables/Unsolved/variables.py
+  226  /usr/bin/python3 /Users/amandahum/Documents/UCBerk/FinTech-Workspace/Class_2_Activities/01_Stu_Variables/Unsolved/variables.py
+  227  /usr/bin/python3 /Users/amandahum/Documents/UCBerk/FinTech-Workspace/Class_2_Activities/01_Stu_Variables/Unsolved/variables.py
+  228  /usr/bin/python3 /Users/amandahum/Documents/UCBerk/FinTech-Workspace/Class_2_Activities/01_Stu_Variables/Unsolved/variables.py
+  229  /usr/bin/python3 /Users/amandahum/Documents/UCBerk/FinTech-Workspace/Class_2_Activities/01_Stu_Variables/Unsolved/variables.py
+  230  /usr/bin/python3 /Users/amandahum/Documents/UCBerk/FinTech-Workspace/Class_2_Activities/01_Stu_Variables/Unsolved/variables.py
+  231  /usr/bin/python3 /Users/amandahum/Documents/UCBerk/FinTech-Workspace/Class_2_Activities/01_Stu_Variables/Unsolved/variables.py
+  232  /usr/bin/python3 /Users/amandahum/Documents/UCBerk/FinTech-Workspace/Class_2_Activities/01_Stu_Variables/Unsolved/variables.py
+  233  /usr/bin/python3 /Users/amandahum/Documents/UCBerk/FinTech-Workspace/Class_2_Activities/03_Stu_Conditional_Statements/Unsolved/conditional_statements.py
+  234  /usr/bin/python3 /Users/amandahum/Documents/UCBerk/FinTech-Workspace/Class_2_Activities/03_Stu_Conditional_Statements/Unsolved/conditional_statements.py
+  235  /usr/bin/python3 /Users/amandahum/Documents/UCBerk/FinTech-Workspace/Class_2_Activities/03_Stu_Conditional_Statements/Unsolved/conditional_statements.py
+  236  /usr/bin/python3 /Users/amandahum/Documents/UCBerk/FinTech-Workspace/Class_2_Activities/03_Stu_Conditional_Statements/Unsolved/conditional_statements.py
+  237  ls
+  238  mkdir Activity-1
+  239  ls
+  240  touch hello.md
+  241  ls
+  242  mv hello.md coding.md
+  243  ls
+  244  mkdir Activity-1/terminal
+  245  ls
+  246  cd Activity-1
+  247  ls
+  248  cd ..
+  249  mv coding.md Activity-1/terminal/
+  250  cd Activity-1/terminal/
+  251  ls
+  252  cd ..
+  253  cd ..
+  254  del Activity-1
+  255  rm -r Activity-1
+  256  ls
+  257  /usr/bin/python3 /Users/amandahum/Documents/UCBerk/FinTech-Workspace/Module_1_Challenge/loan_analyzer.py
+  258  /usr/bin/python3 /Users/amandahum/Documents/UCBerk/FinTech-Workspace/Module_1_Challenge/loan_analyzer.py
+  259  /usr/bin/python3 /Users/amandahum/Documents/UCBerk/FinTech-Workspace/Module_1_Challenge/loan_analyzer.py
+  260  /usr/bin/python3 /Users/amandahum/Documents/UCBerk/FinTech-Workspace/Module_1_Challenge/loan_analyzer.py
+  261  /usr/bin/python3 /Users/amandahum/Documents/UCBerk/FinTech-Workspace/Module_1_Challenge/loan_analyzer.py
+  262  /usr/bin/python3 /Users/amandahum/Documents/UCBerk/FinTech-Workspace/Module_1_Challenge/loan_analyzer.py
+  263  /usr/bin/python3 /Users/amandahum/Documents/UCBerk/FinTech-Workspace/Module_1_Challenge/loan_analyzer.py
+  264  /usr/bin/python3 /Users/amandahum/Documents/UCBerk/FinTech-Workspace/Module_1_Challenge/loan_analyzer.py
+  265  /usr/bin/python3 /Users/amandahum/Documents/UCBerk/FinTech-Workspace/Module_1_Challenge/loan_analyzer.py
+  266  /usr/bin/python3 /Users/amandahum/Documents/UCBerk/FinTech-Workspace/Module_1_Challenge/loan_analyzer.py
+  267  /usr/bin/python3 /Users/amandahum/Documents/UCBerk/FinTech-Workspace/Module_1_Challenge/loan_analyzer.py
+  268  /usr/bin/python3 /Users/amandahum/Documents/UCBerk/FinTech-Workspace/Module_1_Challenge/loan_analyzer.py
+  269  /usr/bin/python3 /Users/amandahum/Documents/UCBerk/FinTech-Workspace/Module_1_Challenge/loan_analyzer.py
+  270  /usr/bin/python3 /Users/amandahum/Documents/UCBerk/FinTech-Workspace/Module_1_Challenge/loan_analyzer.py
+  271  /usr/bin/python3 /Users/amandahum/Documents/UCBerk/FinTech-Workspace/Module_1_Challenge/loan_analyzer.py
+  272  /usr/bin/python3 /Users/amandahum/Documents/UCBerk/FinTech-Workspace/Module_1_Challenge/loan_analyzer.py
+  273  /usr/bin/python3 /Users/amandahum/Documents/UCBerk/FinTech-Workspace/Module_1_Challenge/loan_analyzer.py
+  274  /usr/bin/python3 /Users/amandahum/Documents/UCBerk/FinTech-Workspace/Module_1_Challenge/loan_analyzer.py
+  275  /usr/bin/python3 /Users/amandahum/Documents/UCBerk/FinTech-Workspace/Module_1_Challenge/loan_analyzer.py
+  276  /usr/bin/python3 /Users/amandahum/Documents/UCBerk/FinTech-Workspace/Module_1_Challenge/loan_analyzer.py
+  277  /usr/bin/python3 /Users/amandahum/Documents/UCBerk/FinTech-Workspace/Module_1_Challenge/loan_analyzer.py
+  278  /usr/bin/python3 /Users/amandahum/Documents/UCBerk/FinTech-Workspace/Module_1_Challenge/loan_analyzer.py
+  279  /usr/bin/python3 /Users/amandahum/Documents/UCBerk/FinTech-Workspace/Module_1_Challenge/loan_analyzer.py
+  280  /usr/bin/python3 /Users/amandahum/Documents/UCBerk/FinTech-Workspace/Module_1_Challenge/loan_analyzer.py
+  281  /usr/bin/python3 /Users/amandahum/Documents/UCBerk/FinTech-Workspace/Module_1_Challenge/loan_analyzer.py
+  282  /usr/bin/python3 /Users/amandahum/Documents/UCBerk/FinTech-Workspace/Module_1_Challenge/loan_analyzer.py
+  283  /usr/bin/python3 /Users/amandahum/Documents/UCBerk/FinTech-Workspace/Module_1_Challenge/loan_analyzer.py
+  284  /usr/bin/python3 /Users/amandahum/Documents/UCBerk/FinTech-Workspace/Module_1_Challenge/loan_analyzer.py
+  285  /usr/bin/python3 /Users/amandahum/Documents/UCBerk/FinTech-Workspace/Module_1_Challenge/loan_analyzer.py
+  286  /usr/bin/python3 /Users/amandahum/Documents/UCBerk/FinTech-Workspace/Module_1_Challenge/loan_analyzer.py
+  287  /usr/bin/python3 /Users/amandahum/Documents/UCBerk/FinTech-Workspace/Module_1_Challenge/loan_analyzer.py
+  288  /usr/bin/python3 /Users/amandahum/Documents/UCBerk/FinTech-Workspace/Module_1_Challenge/loan_analyzer.py
+  289  git status
+  290  ls
+  291  cd documents
+  292  ls
+  293  cd ucberk
+  294  ls
+  295  git status
+  296  git log
+  297  git log
+  298  git clone
+  299  ls
+  300  cs fintech-workspace
+  301  cd fintech-workspace
+  302  ls
+  303  git clone
+  304  https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/UCB-VIRT-FIN-PT-12-2021-U-B.git
+  305  ssh-keygen -t
+  306  ssh--keygen --t
+  307  ssh-keygen --t
+  308  ssh-keygen -t
+  309  git pull origin main
+  310  git pull main
+  311  cd
+  312  cd
+  313  cd ..
+  314  cd ..
+  315  git clone
+  316  .ssh/
+  317  git main
+  318  git 
+  319  git clonehttps://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/UCB-VIRT-FIN-PT-12-2021-U-B.git
+  320  git clone https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/UCB-VIRT-FIN-PT-12-2021-U-B.git
+  321  ls
+  322  cd document
+  323  cd documents
+  324  cd ucberk
+  325  ls
+  326  cd fintech-workspace
+  327  ls
+  328  git clone amandamhum-kbQpOg
+  329  git clone https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/UCB-VIRT-FIN-PT-12-2021-U-B.git
+  330  ls
+  331  cd ucb-virt-fin-pt
+  332  cd UCB-VIRT-FIN-PT-12-2021-U-B
+  333  ls
+  334  cd ..
+  335  ls
+  336  /usr/bin/python3 /Users/amandahum/Documents/UCBerk/FinTech-Workspace/Projects/loan_valuation_tool/loan_analyzer.py
+  337  /usr/bin/python3 /Users/amandahum/Documents/UCBerk/FinTech-Workspace/Projects/loan_valuation_tool/loan_analyzer.py
+  338  /usr/bin/python3 /Users/amandahum/Documents/UCBerk/FinTech-Workspace/Projects/loan_valuation_tool/loan_analyzer.py
+  339  /usr/bin/python3 /Users/amandahum/Documents/UCBerk/FinTech-Workspace/Projects/loan_valuation_tool/loan_analyzer.py
+  340  /usr/bin/python3 /Users/amandahum/Documents/UCBerk/FinTech-Workspace/Projects/loan_valuation_tool/loan_analyzer.py
+  341  /usr/bin/python3 /Users/amandahum/Documents/UCBerk/FinTech-Workspace/Projects/loan_valuation_tool/loan_analyzer.py
+  342  cd ..
+  343  cd ..
+  344  cd ..
+  345  /usr/bin/python3 /Users/amandahum/Documents/UCBerk/FinTech-Workspace/Projects/loan_valuation_tool/loan_analyzer.py
+  346  conda activate atm
+  347  cd documents
+  348  cd ucberk
+  349  cd fintech-
+  350  cd FinTech-Workspace
+  351  ls
+  352  conda create -n atm
+  353  ls
+  354  conda remove --name atm
+  355  conda env remove --n atm
+  356  conda create --name atm python=3.7 anaconda
+  357  pip install -r requirements.txt
+  358  ls
+  359  conda activate dev
+  360  pip -V
+  361  pip freeze
+  362  pip install fire
+  363  pip install questionary
+  364  conda deactivate
+  365  conda dev activate
+  366  conda dev 
+  367  ls
+  368  conda activate dev
+  369  conda list pandas
+  370  conda list jupyterlab
+  371  jupyter lab
+  372  conda deactivate
+  373  conda activate dev
+  374  panda
+  375  pandas
+  376  conda list pandas
+  377  ls
+  378  cd documents
+  379  cd ucberk
+  380  cd FinTech-Workspace
+  381  ls
+  382  import pandas as pd
+  383  csvpath = /01_Import_Data/sales.csv
+  384  conda deactivate
+  385  jupyter lab
+  386  ls
+  387  cd documents/ucberk
+  388  cd FinTech-Workspace
+  389  ls
+  390  git pull
+  391  git clone https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/UCB-VIRT-FIN-PT-12-2021-U-B.git
+  392  jupyter lab
+  393  jupyter lab
+  394  jupyter lab
+  395  /usr/bin/python3 /Users/amandahum/Documents/UCBerk/FinTech-Workspace/Projects/loan_qualifier_app/app.py
+  396  /usr/bin/python3 /Users/amandahum/Documents/UCBerk/FinTech-Workspace/Projects/loan_qualifier_app/app.py
+  397  git push origin main
+  398  cd documents/ucberk
+  399  cd FinTech-Workspace
+  400  ls
+  401  cd Projects
+  402  ls
+  403  cd loan_qualifer_app
+  404  ls
+  405  cd loan_qualifier_app
+  406  ls
+  407  git add
+  408  git clone git@github.com:amandahum18/loan_qualifier_app.git
+  409  cd ..
+  410  git clone git@github.com:amandahum18/loan_qualifier_app.git
+  411  git clone git@github.com:amandahum18/loan_qualifier_app.git
+  412  git add .
+  413  git add
+  414  ls
+  415  cd loan_qualifier_app
+  416  git add
+  417  git add .
+  418  git commit -m "Adding files and data"
+  419  git remote add origin git@github.com:amandahum18/loan_qualifier_app.git
+  420  git remote -v
+  421  git push -f
+  422  git push origin master
+  423  ls
+  424  python app.py
+  425  pip install fire
+  426  pip install questionary
+  427  python app.py
+  428  python app.py
+  429  python app.py
+  430  python app.py
+  431  python app.py
+  432  python app.py
+  433  python app.py
+  434  python app.py
+  435  python app.py
+  436  python app.py
+  437  python app.py
+  438  python app.py
+  439  python app.py
+  440  python app.py
+  441  python app.py
+  442  python app.py
+  443  python app.py
+  444  python app.py
+  445  python app.py
+  446  cd documents/ucberk
+  447  cd FinTech-Workspace
+  448  ls
+  449  python testing.py
+  450  /usr/bin/python3
+  451  cd documents/ucberk
+  452  cd FinTech-Workspace
+  453  ls
+  454  cd Projects
+  455  cd
+  456  cd documents/ucberk/FinTech-Workspace/Projects
+  457  ls
+  458  cd loan_qualifier_app
+  459  cd
+  460  cd documents/ucberk/FinTech-Workspace/Projects
+  461  cd loan_qualifier_app
+  462  ls
+  463  python app.py
+  464  python app.py
+  465  python app.py
+  466  python app.py
+  467  python app.py
+  468  python app.py
+  469  python app.py
+  470  python app.py
+  471  python app.py
+  472  python app.py
+  473  git add .
+  474  git commit
+  475  git add .
+  476  cd documents/ucberk
+  477  cd FinTech-Workspace
+  478  cd Projects
+  479  cd loan_qualifier_app
+  480  git add .
+  481  git commit
+  482  cd documents/ucberk
+  483  cd FinTech-Workspace
+  484  cd Projects/loan_qualifier_app
+  485  git status
+  486  git add .
+  487  git commit -m "Final Changes"
+  488  git status
+  489  git push
+  490  git add .
+  491  git commit -m 
+  492  git commit -m "Final Version"
+  493  git status
+  494  git push
